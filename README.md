@@ -1,0 +1,2 @@
+# Project_Amazon_Clone - The Amazon clone website is a project that aims to replicate the core functionality and user interface of the popular e-commerce platform, Amazon, using HTML and CSS. The project involves creating a front-end design that closely resembles the layout and style of Amazon's website.
+output : ![image](https://github.com/pkumar6325/Project_Amazon_Clone/assets/124491033/a87311f7-7c34-4b3e-bfc7-e6e11dc40c57)
